@@ -1,0 +1,4 @@
+arch: ppc64le
+os: linux
+install:
+  - npm install
