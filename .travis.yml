@@ -1,8 +1,7 @@
 arch: ppc64le
 language: node_js
 os: linux
-node_js: 
-  - "15"
-  - node
+node_js: node
 script:
   - npm install
+  - npm fund
