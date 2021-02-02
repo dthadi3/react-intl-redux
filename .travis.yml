@@ -6,3 +6,4 @@ os: linux
 node_js: node
 script:
   - npm fund
+  - npm test
